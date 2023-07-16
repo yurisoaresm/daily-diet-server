@@ -16,6 +16,7 @@
   "author": "Yuri Soares",
   "license": "MIT",
   "dependencies": {
+    "@fastify/cookie": "^8.3.0",
     "dotenv": "^16.3.1",
     "fastify": "^4.19.2",
     "knex": "^2.5.1",
